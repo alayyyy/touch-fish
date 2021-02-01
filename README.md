@@ -8,7 +8,9 @@
 
 仅支持win使用
 -----------
-请下载touch-fish压缩包
+请下载touch-fish压缩包<br>
+1.github打包下载
+2.蓝奏云盘下载:https://wwa.lanzous.com/iMEacl5qtub 密码:LGNB
 
 使用方法：
 -----------
